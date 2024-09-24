@@ -1,2 +1,3 @@
-# data-analysis-projects-09232004
-Backup repository of the Launcode data-analysis-projects (As of 09232004)
+# Data Analysis Projects
+
+This repository holds all code snippets and examples from the reading chapters of the [Data Analysis Textbook](https://education.launchcode.org/data-analysis-curriculum/)
